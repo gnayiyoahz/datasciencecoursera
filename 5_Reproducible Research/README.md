@@ -1,1 +1,1 @@
-The report can is available on [RPubs](http://rpubs.com/gnayiyoahz/518893)
+The report is available on [RPubs](http://rpubs.com/gnayiyoahz/518893).
